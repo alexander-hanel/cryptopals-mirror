@@ -1,7 +1,7 @@
 
 # Detect single-character XOR
 
-One of the 60-character strings in this file (challenge-4-file.txt) has been encrypted by single-character XOR.
+One of the 60-character strings in [this file](challenge-4-file.txt) has been encrypted by single-character XOR.
 
 Find it.
 

@@ -1,7 +1,7 @@
 
 # Break fixed-nonce CTR statistically
 
-In this file (challenge-20-file.txt) find a similar set of Base64'd plaintext. Do with them exactly what you did with the first, but solve the problem differently.
+In [this file](challenge-20-file.txt) find a similar set of Base64'd plaintext. Do with them exactly what you did with the first, but solve the problem differently.
 
 Instead of making spot guesses at to known plaintext, treat the collection of ciphertexts the same way you would repeating-key XOR.
 

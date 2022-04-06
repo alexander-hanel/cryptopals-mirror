@@ -1,7 +1,7 @@
 
 # AES in ECB mode
 
-The Base64-encoded content in this file (challenge-7-file.txt) has been encrypted via AES-128 in ECB mode under the key
+The Base64-encoded content in [this file](challenge-7-file.txt) has been encrypted via AES-128 in ECB mode under the key
 ```
 "YELLOW SUBMARINE".
 ```

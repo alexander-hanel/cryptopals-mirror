@@ -1,7 +1,7 @@
 
 # Detect AES in ECB mode
 
-In this file (challenge-8-file.txt) are a bunch of hex-encoded ciphertexts.
+In [this file](challenge-8-file.txt) are a bunch of hex-encoded ciphertexts.
 
 One of them has been encrypted with ECB.
 
