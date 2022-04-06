@@ -1,20 +1,20 @@
 # the cryptopals crypto challenges
 
-Set 1: Basics
+[Set 1: Basics](set-1/README.md)
 
-Set 2: Block crypto
+[Set 2: Block crypto](set-2/README.md)
 
-Set 3: Block & stream crypto
+[Set 3: Block & stream crypto](set-3/README.md)
 
-Set 4: Stream crypto and randomness
+[Set 4: Stream crypto and randomness](set-4/README.md)
 
-Set 5: Diffie-Hellman and friends
+[Set 5: Diffie-Hellman and friends](set-5/README.md)
 
-Set 6: RSA and DSA
+[Set 6: RSA and DSA](set-6/README.md)
 
-Set 7: Hashes
+[Set 7: Hashes](set-7/README.md)
 
-Set 8: Abstract Algebra
+[Set 8: Abstract Algebra](set-8/README.md)
 
 ## Welcome to the challenges
 Work in progress.
@@ -84,3 +84,6 @@ We could not possibly have done this without the help of several other people. R
 ### Legal
 
 Individual exercise submissions are owned by their author, and may or may not be distributed under an open source license.
+
+### Cryptopals Mirror
+This repo was created by an enthusiast of NCC's cryptopals challenge. I wanted a version of the challenges that could be easily downloaded and accessible offline. I'm not affiliated with NCC.
