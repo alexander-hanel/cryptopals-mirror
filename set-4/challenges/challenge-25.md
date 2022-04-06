@@ -1,7 +1,7 @@
 
 # Break "random access read/write" AES CTR
 
-Back to CTR. Encrypt the recovered plaintext from this file (challenge-25-file.txt) (the ECB exercise) under CTR with a random key (for this exercise the key should be unknown to you, but hold on to it).
+Back to CTR. Encrypt the recovered plaintext from [this file](challenge-25-file.txt) (the ECB exercise) under CTR with a random key (for this exercise the key should be unknown to you, but hold on to it).
 
 Now, write the code that allows you to "seek" into the ciphertext, decrypt, and re-encrypt with different plaintext. Expose this as a function, like, _"edit(ciphertext, key, offset, newtext)"_.
 

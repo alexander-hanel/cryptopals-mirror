@@ -7,7 +7,7 @@ This set is __relatively easy__. People that clear set 1 tend to clear set 2 som
 
 Three of the challenges in this set are extremely valuable in breaking real-world crypto; one allows you to decrypt messages encrypted in the default mode of AES, and the other two allow you to rewrite messages encrypted in the most popular modes of AES.
 
-9. [Implement PKCS#7 padding](challenges/challenge-9.md)
+9. [Implement PKCS#7 padding](challenges/challenge-09.md)
 10. [Implement CBC mode](challenges/challenge-10.md)
 11. [An ECB/CBC detection oracle](challenges/challenge-11.md)
 12. [Byte-at-a-time ECB decryption (Simple)](challenges/challenge-12.md)
